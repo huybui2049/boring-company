@@ -1,0 +1,3 @@
+# Welcome to Boring Project!
+
+This project simulates the NSP7 co-factor in the monomeric state from SARS-CoV-2! To replicate itself, the virus uses "polymerase" proteins that transcribe the viral genome after it infects a host cell (aka our cells). The known polymerase of the viruses utilizes 3 proteins, NSP7 and NSP8, and NSP12. This project simulates NSP7 in isolation. Our hope is to identify a potentially druggable site in this polymerase for drug dessign efforts. This project is related to p16424, p16431, and p16432. Eliminating virus with [boring company flamethrower](https://boring-company.webflow.io/).
